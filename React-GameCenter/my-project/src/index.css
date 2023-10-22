@@ -1,3 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body {
+    background-color: #2e2e2e;
+}
+
+.App {
+    height: 100vh;
+}
